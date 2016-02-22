@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-﻿using System.Reflection;
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -35,41 +35,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-=======
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
 
-// La información general de un ensamblado se controla mediante el siguiente 
-// conjunto de atributos. Cambie estos valores de atributo para modificar la información
-// asociada con un ensamblado.
-[assembly: AssemblyTitle("lazySQL")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("lazySQL")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-
-// Si establece ComVisible en false, los tipos de este ensamblado no estarán visibles 
-// para los componentes COM.  Si necesita obtener acceso a un tipo de este ensamblado desde 
-// COM, establezca el atributo ComVisible en true en este tipo.
-[assembly: ComVisible(false)]
-
-// El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("6572fa51-159f-4ce0-bc32-78d4fc8c08f8")]
-
-// La información de versión de un ensamblado consta de los cuatro valores siguientes:
-//
-//      Versión principal
-//      Versión secundaria 
-//      Número de compilación
-//      Revisión
-//
-// Puede especificar todos los valores o usar los valores predeterminados de número de compilación y de revisión 
-// mediante el carácter '*', como se muestra a continuación:
-// [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
->>>>>>> 2c37c2b23ef6cc05e6bffe4cb21e01e9d6b9658b
